@@ -48,7 +48,7 @@ Product.propTypes = {
         title: PropTypes.string,
         price: PropTypes.number,
         inCart: PropTypes.bool
-    }).isRequired
+    }).isRequired 
 }
 
 const ProductWrapper = styled.div`
