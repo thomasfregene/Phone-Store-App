@@ -1,0 +1,107 @@
+[33mcommit f12e79503e1c9382591e31e21b42775bc6d07dac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Tue Aug 18 03:28:42 2020 +0100
+
+    working on the cart component -added the empty cart component
+
+[33mcommit 47c14396f051920acd636e9bb5ca53cbb6644b49[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Tue Aug 18 03:10:33 2020 +0100
+
+    working on the cart component -added the cart column component
+
+[33mcommit 919381c6c86d60901413b9de1863d6265080baf9[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Mon Aug 17 18:10:55 2020 +0100
+
+    Adding the modal component and its functionalities
+
+[33mcommit 915ee51a096b564d143499c14f1e1062d7961bcc[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Mon Aug 17 04:30:27 2020 +0100
+
+    setting up the addTocart function
+
+[33mcommit 174551b3abe23e9a5f5234e3a62a6839995cd023[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Mon Aug 17 04:04:58 2020 +0100
+
+    setting up handleDetail function
+
+[33mcommit 7777af73c70eb6d82ae1ab9bffab577dc339ded0[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Sun Aug 16 04:22:52 2020 +0100
+
+    working on the details component
+
+[33mcommit 06cc65d4faec2f496f3ff0283bb09b480b598908[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Sat Aug 15 02:45:56 2020 +0100
+
+    setting the actual value of the state before and after update -context component
+
+[33mcommit e40c02af5d8002f22e38a0e76b866029ec7c8e3a[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Sat Aug 15 02:17:48 2020 +0100
+
+    using propTypes -product component
+
+[33mcommit fa6a6102a98f71f6ddf7170dd3a13a3af6a68253[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Sat Aug 15 02:00:17 2020 +0100
+
+    styling the product -product component
+
+[33mcommit f885987e0b9c16cbbdd28dc52fddb65d3115a9ee[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Thu Aug 13 04:42:22 2020 +0100
+
+    removing state from productlist
+
+[33mcommit 830422a084126ab32b8fbdd2512bacd14b4a05cc[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Thu Aug 13 04:36:56 2020 +0100
+
+    setting up context api
+
+[33mcommit f130599f214e8fa3c0c9e2576c07b26d527db72e[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Thu Aug 13 02:58:56 2020 +0100
+
+    using styled components -navbar.js, button.js
+
+[33mcommit 06aba3a808966db5cb42340b467a93119946d7a7[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Thu Aug 13 01:57:25 2020 +0100
+
+    working on links in the navbar -navbar.js
+
+[33mcommit 4a03cb82d343221bf71491ac4c6c40462f72e15b[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Wed Aug 12 18:33:12 2020 +0100
+
+    configuring the routes -App.js, index.js
+
+[33mcommit 754c5cb4e3b816a2c0236ff108118af229a9cf87[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Wed Aug 12 18:06:49 2020 +0100
+
+    creating the components and referencing to the main file -App.js
+
+[33mcommit 61faf4f98ed9f1fc02448c6654753aa324ec4c32[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Wed Aug 12 14:48:50 2020 +0100
+
+    creating the main css style -app.css
+
+[33mcommit 5ed42f16c106d75fe215bd30284f02c7bf45aab8[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Wed Aug 12 05:12:55 2020 +0100
+
+    Initial Commit -create-react-app and depedencies
+
+[33mcommit 372db3111b9b4646b224ad699b652f24f1bb41bf[m
+Author: thomasfregene <fregzythomas@gmail.com>
+Date:   Wed Aug 12 04:30:27 2020 +0100
+
+    Initialize project using Create React App
